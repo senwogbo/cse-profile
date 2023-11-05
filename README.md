@@ -1,2 +1,2 @@
 # cse-profile
-This is web profile creation exercice, with emphasis on an enthusiasm for data and tech.
+This is an amateur web profile creation exercice, with emphasis on an enthusiasm for data and tech.
